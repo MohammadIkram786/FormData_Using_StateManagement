@@ -1,0 +1,26 @@
+.containerBox{
+  background-color: whitesmoke;
+  width: 80%;
+  margin: 50px auto;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px gray;
+}
+form{
+  width: 50%;
+  margin: auto;
+}
+.nameBox{
+  margin: 15px 0;
+}
+.btnBox{
+  justify-self: center;
+}
+.actIcon{
+  font-size: 25px;
+  cursor: pointer;
+}
+.userDetails{
+  width: 80%;
+  margin: auto;
+}
